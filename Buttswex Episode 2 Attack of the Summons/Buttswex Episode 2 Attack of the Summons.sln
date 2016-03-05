@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8BBD240C-2B3B-667B-4CDE-98A7E996E5DA}") = "Buttswex Episode 2 Attack of the Summons", "Assembly-CSharp.csproj", "{19C6CF69-813B-04C6-E6BA-03004AE06DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C6CF69-813B-04C6-E6BA-03004AE06DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C6CF69-813B-04C6-E6BA-03004AE06DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C6CF69-813B-04C6-E6BA-03004AE06DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C6CF69-813B-04C6-E6BA-03004AE06DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

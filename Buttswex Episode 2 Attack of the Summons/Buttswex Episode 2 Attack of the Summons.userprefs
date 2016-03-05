@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CameraController.cs">
+    <Files>
+      <File FileName="Assets\CameraController.cs" Line="47" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="C:\Users\Jon\Documents\GitHub\gamejam2016\Buttswex Episode 2 Attack of the Summons\Assets\FighterCamera.cs" line="5" column="21" />
+      <RunToCursorBreakpoint file="C:\Users\Jon\Documents\GitHub\gamejam2016\Buttswex Episode 2 Attack of the Summons\Assets\FighterCamera.cs" line="4" column="11" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
